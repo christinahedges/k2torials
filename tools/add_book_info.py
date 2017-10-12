@@ -11,8 +11,8 @@ BOOK_COMMENT = "<!--BOOK_INFORMATION-->"
 
 
 BOOK_INFO = BOOK_COMMENT + """
-<img align="left" style="padding-right:10px;" src="figures/kepler.png">
-*This notebook uses routines from [PyKE](http://github.com/keplerGO/PyKE/) which is documented [here](keplerdocs) and was built by authors. You can find these notebooks on [GitHub](notebooklink)*"""
+<img align="left" style="padding-right:10px;" src="figures/kep.png" height=75 width=75>
+*This notebook uses routines from [PyKE](http://github.com/keplerGO/PyKE/) which is documented [here](http://pyke.keplerscience.org/). You can find these notebooks on [GitHub](https://github.com/christinahedges/k2torials)*"""
 
 
 def add_book_info():

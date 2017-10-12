@@ -48,4 +48,4 @@ def print_contents(directory=None):
 if __name__ == '__main__':
     print_contents()
     print('\n', 70 * '#', '\n')
-    print_contents('http://nbviewer.jupyter.org/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/')
+    print_contents('http://nbviewer.jupyter.org/github/christinahedges/k2torials/tree/master/notebooks/')

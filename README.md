@@ -10,6 +10,6 @@ You can access the tutorials as notebooks in this repository, or as a [pdf](), o
 * scipy
 * matplotlib
 * astropy
-* [BATMAN]()
-* [LDTk]()
-* [PyKE]()
+* [BATMAN](https://astro.uchicago.edu/~kreidberg/batman/installation.html)
+* [LDTk](https://github.com/hpparvi/ldtk)
+* [PyKE](https://github.com/keplerGO/PyKE)
