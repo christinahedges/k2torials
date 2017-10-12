@@ -16,7 +16,7 @@ def prev_this_next(it):
 
 
 PREV_TEMPLATE = "< [{title}]({url}) "
-CONTENTS = "| [Contents](http://nbviewer.jupyter.org/github/christinahedges/k2torials/tree/master/notebooks/index.ipynb) |"
+CONTENTS = "| [Contents](index.ipynb) |"
 NEXT_TEMPLATE = " [{title}]({url}) >"
 NAV_COMMENT = "<!--NAVIGATION-->\n"
 
