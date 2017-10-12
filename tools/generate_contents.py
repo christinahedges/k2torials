@@ -7,7 +7,12 @@ import nbformat
 NOTEBOOK_DIR = os.path.join(os.path.dirname(__file__), '..', 'notebooks')
 
 CHAPTERS = {"00": "Preface",
-            "01": "Data Preparation"}
+            "01": "Basics",
+            "02": "Detrending and Cleaning",
+            "03": "Finding Planets",
+            "04": "Vetting Planets",
+            "05": "Advanced"
+            }
 
 REG = re.compile(r'(\d\d)\.(\d\d)-(.*)\.ipynb')
 
