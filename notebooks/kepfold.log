@@ -57,3 +57,144 @@ Writing output file data/kplr006922244-2010078095331_llc-kepfold.fits...
 KEPFOLD --  infile=data/kplr006922244-2010078095331_llc.fits outfile=data/kplr006922244-2010078095331_llc-kepfold.fits period=200 bjd0=3.5 bindata=False binmethod=median threshold=1.0 niter=5 nbins=1000 rejqual=False plottype=sap overwrite=True verbose=False logfile=kepfold.log
 
 Writing output file data/kplr006922244-2010078095331_llc-kepfold.fits...
+Using period and BJD0 from KEPBLS
+--------------------------------------------------------------
+KEPFOLD --  infile=data/kplr006922244-2010078095331_llc-kepflatten-kepbls.fits outfile=data/kplr006922244-2010078095331_llc-kepflatten-kepbls-kepfold.fits period=3.522071123123169 bjd0=2455186.613633621 bindata=False binmethod=mean threshold=1.0 niter=5 nbins=1000 rejqual=False plottype=det overwrite=False verbose=False logfile=kepfold.log
+
+Writing output file data/kplr006922244-2010078095331_llc-kepflatten-kepbls-kepfold.fits...
+ERROR -- KEPFOLD: No period information found. Either specify             period and BJD0 or run KEPBLS.
+Using period and BJD0 from KEPBLS
+--------------------------------------------------------------
+KEPFOLD --  infile=data/kplr006922244-2010078095331_llc-kepflatten-kepbls.fits outfile=data/kplr006922244-2010078095331_llc-kepflatten-kepbls-kepfold.fits period=3.522071123123169 bjd0=2455186.613633621 bindata=False binmethod=mean threshold=1.0 niter=5 nbins=1000 rejqual=False plottype=det overwrite=False verbose=False logfile=kepfold.log
+
+ERROR -- KEPFOLD: data/kplr006922244-2010078095331_llc-kepflatten-kepbls-kepfold.fits exists. Use --overwrite
+Using period and BJD0 from KEPBLS
+--------------------------------------------------------------
+KEPFOLD --  infile=data/kplr006922244-2010078095331_llc-kepflatten-kepbls.fits outfile=data/kplr006922244-2010078095331_llc-kepflatten-kepbls-kepfold.fits period=3.522071123123169 bjd0=2455186.613633621 bindata=False binmethod=mean threshold=1.0 niter=5 nbins=1000 rejqual=False plottype=det overwrite=True verbose=False logfile=kepfold.log
+
+Writing output file data/kplr006922244-2010078095331_llc-kepflatten-kepbls-kepfold.fits...
+Using period and BJD0 from KEPBLS
+--------------------------------------------------------------
+KEPFOLD --  infile=data/kplr006922244-2010078095331_llc-kepflatten-kepbls.fits outfile=data/kplr006922244-2010078095331_llc-kepflatten-kepbls-kepfold.fits period=3.522071123123169 bjd0=2455186.613633621 bindata=False binmethod=mean threshold=1.0 niter=5 nbins=1000 rejqual=False plottype=det overwrite=False verbose=False logfile=kepfold.log
+
+ERROR -- KEPFOLD: data/kplr006922244-2010078095331_llc-kepflatten-kepbls-kepfold.fits exists. Use --overwrite
+--------------------------------------------------------------
+KEPFOLD --  infile=data/kplr006922244-2010078095331_llc-kepflatten-kepbls.fits outfile=data/kplr006922244-2010078095331_llc-kepflatten-kepbls-kepfold.fits period=1.0 bjd0=100.0 bindata=False binmethod=mean threshold=1.0 niter=5 nbins=1000 rejqual=False plottype=det overwrite=False verbose=False logfile=kepfold.log
+
+ERROR -- KEPFOLD: data/kplr006922244-2010078095331_llc-kepflatten-kepbls-kepfold.fits exists. Use --overwrite
+--------------------------------------------------------------
+KEPFOLD --  infile=data/kplr006922244-2010078095331_llc-kepflatten-kepbls.fits outfile=data/kplr006922244-2010078095331_llc-kepflatten-kepbls-kepfold.fits period=1.0 bjd0=100.0 bindata=False binmethod=mean threshold=1.0 niter=5 nbins=1000 rejqual=False plottype=det overwrite=True verbose=False logfile=kepfold.log
+
+Writing output file data/kplr006922244-2010078095331_llc-kepflatten-kepbls-kepfold.fits...
+Using period and BJD0 from KEPBLS
+--------------------------------------------------------------
+KEPFOLD --  infile=data/kplr006922244-2010078095331_llc-kepflatten-kepbls.fits outfile=data/kplr006922244-2010078095331_llc-kepflatten-kepbls-kepfold.fits period=3.522071123123169 bjd0=2455186.613633621 bindata=False binmethod=mean threshold=1.0 niter=5 nbins=1000 rejqual=False plottype=det overwrite=False verbose=False logfile=kepfold.log
+
+ERROR -- KEPFOLD: data/kplr006922244-2010078095331_llc-kepflatten-kepbls-kepfold.fits exists. Use --overwrite
+Using period and BJD0 from KEPBLS
+--------------------------------------------------------------
+KEPFOLD --  infile=data/kplr006922244-2010078095331_llc-kepflatten-kepbls.fits outfile=data/kplr006922244-2010078095331_llc-kepflatten-kepbls-kepfold.fits period=3.522071123123169 bjd0=2455186.613633621 bindata=False binmethod=mean threshold=1.0 niter=5 nbins=1000 rejqual=False plottype=det overwrite=True verbose=False logfile=kepfold.log
+
+Writing output file data/kplr006922244-2010078095331_llc-kepflatten-kepbls-kepfold.fits...
+--------------------------------------------------------------
+KEPFOLD --  infile=data/kplr006922244-2010078095331_llc-kepflatten-kepbls.fits outfile=data/kplr006922244-2010078095331_llc-kepflatten-kepbls-kepfold.fits period=1.0 bjd0=100.0 bindata=False binmethod=mean threshold=1.0 niter=5 nbins=1000 rejqual=False plottype=det overwrite=True verbose=False logfile=kepfold.log
+
+Writing output file data/kplr006922244-2010078095331_llc-kepflatten-kepbls-kepfold.fits...
+--------------------------------------------------------------
+KEPFOLD --  infile=data/kplr006922244-2010078095331_llc-kepflatten-kepbls.fits outfile=data/kplr006922244-2010078095331_llc-kepflatten-kepbls-kepfold.fits period=1.0 bjd0=100.0 bindata=False binmethod=mean threshold=1.0 niter=5 nbins=1000 rejqual=False plottype=det overwrite=True verbose=False logfile=kepfold.log
+
+Writing output file data/kplr006922244-2010078095331_llc-kepflatten-kepbls-kepfold.fits...
+--------------------------------------------------------------
+KEPFOLD --  infile=data/kplr006922244-2010078095331_llc-kepflatten-kepbls.fits outfile=data/kplr006922244-2010078095331_llc-kepflatten-kepbls-kepfold.fits period=1.0 bjd0=100.0 bindata=False binmethod=mean threshold=1.0 niter=5 nbins=1000 rejqual=False plottype=det overwrite=True verbose=False logfile=kepfold.log
+
+Writing output file data/kplr006922244-2010078095331_llc-kepflatten-kepbls-kepfold.fits...
+--------------------------------------------------------------
+KEPFOLD --  infile=data/kplr006922244-2010078095331_llc-kepflatten-kepbls.fits outfile=data/kplr006922244-2010078095331_llc-kepflatten-kepbls-kepfold.fits period=1.0 bjd0=100.0 bindata=False binmethod=mean threshold=1.0 niter=5 nbins=1000 rejqual=False plottype=det overwrite=True verbose=False logfile=kepfold.log
+
+Writing output file data/kplr006922244-2010078095331_llc-kepflatten-kepbls-kepfold.fits...
+--------------------------------------------------------------
+KEPFOLD --  infile=data/kplr006922244-2010078095331_llc-kepflatten-kepbls.fits outfile=data/kplr006922244-2010078095331_llc-kepflatten-kepbls-kepfold.fits period=1.0 bjd0=100.0 bindata=False binmethod=mean threshold=1.0 niter=5 nbins=1000 rejqual=False plottype=det overwrite=True verbose=False logfile=kepfold.log
+
+Writing output file data/kplr006922244-2010078095331_llc-kepflatten-kepbls-kepfold.fits...
+--------------------------------------------------------------
+KEPFOLD --  infile=data/kplr006922244-2010078095331_llc-kepflatten-kepbls.fits outfile=data/kplr006922244-2010078095331_llc-kepflatten-kepbls-kepfold.fits period=1.0 bjd0=100.0 bindata=False binmethod=mean threshold=1.0 niter=5 nbins=1000 rejqual=False plottype=det overwrite=True verbose=False logfile=kepfold.log
+
+Writing output file data/kplr006922244-2010078095331_llc-kepflatten-kepbls-kepfold.fits...
+--------------------------------------------------------------
+KEPFOLD --  infile=data/kplr006922244-2010078095331_llc-kepflatten-kepbls.fits outfile=data/kplr006922244-2010078095331_llc-kepflatten-kepbls-kepfold.fits period=1.0 bjd0=100.0 bindata=False binmethod=mean threshold=1.0 niter=5 nbins=1000 rejqual=False plottype=det overwrite=True verbose=False logfile=kepfold.log
+
+Writing output file data/kplr006922244-2010078095331_llc-kepflatten-kepbls-kepfold.fits...
+Using period and BJD0 from KEPBLS
+--------------------------------------------------------------
+KEPFOLD --  infile=data/kplr006922244-2010078095331_llc-kepflatten-kepbls.fits outfile=data/kplr006922244-2010078095331_llc-kepflatten-kepbls-kepfold.fits period=3.522071123123169 bjd0=2455186.613633621 bindata=False binmethod=mean threshold=1.0 niter=5 nbins=1000 rejqual=False plottype=det overwrite=True verbose=False logfile=kepfold.log
+
+Writing output file data/kplr006922244-2010078095331_llc-kepflatten-kepbls-kepfold.fits...
+Using period and BJD0 from KEPBLS
+--------------------------------------------------------------
+KEPFOLD --  infile=data/kplr006922244-2010078095331_llc-kepflatten-kepbls.fits outfile=data/kplr006922244-2010078095331_llc-kepflatten-kepbls-kepfold.fits period=3.522071123123169 bjd0=2455186.613633621 bindata=False binmethod=mean threshold=1.0 niter=5 nbins=1000 rejqual=False plottype=det overwrite=True verbose=False logfile=kepfold.log
+
+Writing output file data/kplr006922244-2010078095331_llc-kepflatten-kepbls-kepfold.fits...
+Using period and BJD0 from KEPBLS
+--------------------------------------------------------------
+KEPFOLD --  infile=data/kplr006922244-2010078095331_llc-kepflatten-kepbls.fits outfile=data/kplr006922244-2010078095331_llc-kepflatten-kepbls-kepfold.fits period=3.522071123123169 bjd0=2455186.613633621 bindata=False binmethod=mean threshold=1.0 niter=5 nbins=1000 rejqual=False plottype=det overwrite=True verbose=False logfile=kepfold.log
+
+Writing output file data/kplr006922244-2010078095331_llc-kepflatten-kepbls-kepfold.fits...
+Using period and BJD0 from KEPBLS
+--------------------------------------------------------------
+KEPFOLD --  infile=data/kplr006922244-2010078095331_llc-kepflatten-kepbls.fits outfile=data/kplr006922244-2010078095331_llc-kepflatten-kepbls-kepfold.fits period=3.522071123123169 bjd0=2455186.613633621 bindata=False binmethod=mean threshold=1.0 niter=5 nbins=1000 rejqual=False plottype=det overwrite=True verbose=False logfile=kepfold.log
+
+Writing output file data/kplr006922244-2010078095331_llc-kepflatten-kepbls-kepfold.fits...
+Using period and BJD0 from KEPBLS
+--------------------------------------------------------------
+KEPFOLD --  infile=data/kplr006922244-2010078095331_llc-kepflatten-kepbls.fits outfile=data/kplr006922244-2010078095331_llc-kepflatten-kepbls-kepfold.fits period=3.522071123123169 bjd0=2455186.613633621 bindata=False binmethod=mean threshold=1.0 niter=5 nbins=1000 rejqual=False plottype=det overwrite=True verbose=False logfile=kepfold.log
+
+Writing output file data/kplr006922244-2010078095331_llc-kepflatten-kepbls-kepfold.fits...
+Using period and BJD0 from KEPBLS
+--------------------------------------------------------------
+KEPFOLD --  infile=data/kplr006922244-2010078095331_llc-kepflatten-kepbls.fits outfile=data/kplr006922244-2010078095331_llc-kepflatten-kepbls-kepfold.fits period=3.522071123123169 bjd0=2455186.613633621 bindata=False binmethod=mean threshold=1.0 niter=5 nbins=1000 rejqual=False plottype=det overwrite=True verbose=False logfile=kepfold.log
+
+Writing output file data/kplr006922244-2010078095331_llc-kepflatten-kepbls-kepfold.fits...
+Using period and BJD0 from KEPBLS
+--------------------------------------------------------------
+KEPFOLD --  infile=data/kplr006922244-2010078095331_llc-kepflatten-kepbls.fits outfile=data/kplr006922244-2010078095331_llc-kepflatten-kepbls-kepfold.fits period=3.522071123123169 bjd0=2455186.613633621 bindata=False binmethod=mean threshold=1.0 niter=5 nbins=1000 rejqual=False plottype=det overwrite=True verbose=False logfile=kepfold.log
+
+Writing output file data/kplr006922244-2010078095331_llc-kepflatten-kepbls-kepfold.fits...
+Using period and BJD0 from KEPBLS
+--------------------------------------------------------------
+KEPFOLD --  infile=data/kplr006922244-2010078095331_llc-kepflatten-kepbls.fits outfile=data/kplr006922244-2010078095331_llc-kepflatten-kepbls-kepfold.fits period=3.522071123123169 bjd0=2455186.613633621 bindata=False binmethod=mean threshold=1.0 niter=5 nbins=1000 rejqual=False plottype=det overwrite=True verbose=False logfile=kepfold.log
+
+Writing output file data/kplr006922244-2010078095331_llc-kepflatten-kepbls-kepfold.fits...
+Using period and BJD0 from KEPBLS
+--------------------------------------------------------------
+KEPFOLD --  infile=data/kplr006922244-2010078095331_llc-kepflatten-kepbls.fits outfile=data/kplr006922244-2010078095331_llc-kepflatten-kepbls-kepfold.fits period=3.522071123123169 bjd0=2455186.613633621 bindata=False binmethod=mean threshold=1.0 niter=5 nbins=1000 rejqual=False plottype=det overwrite=True verbose=False logfile=kepfold.log
+
+Writing output file data/kplr006922244-2010078095331_llc-kepflatten-kepbls-kepfold.fits...
+Using period and BJD0 from KEPBLS
+--------------------------------------------------------------
+KEPFOLD --  infile=data/kplr006922244-2010078095331_llc-kepflatten-kepbls.fits outfile=data/kplr006922244-2010078095331_llc-kepflatten-kepbls-kepfold.fits period=3.522071123123169 bjd0=2455186.613633621 bindata=False binmethod=mean threshold=1.0 niter=5 nbins=1000 rejqual=False plottype=det overwrite=True verbose=False logfile=kepfold.log
+
+Writing output file data/kplr006922244-2010078095331_llc-kepflatten-kepbls-kepfold.fits...
+Using period and BJD0 from KEPBLS
+--------------------------------------------------------------
+KEPFOLD --  infile=data/kplr006922244-2010078095331_llc-kepflatten-kepbls.fits outfile=data/kplr006922244-2010078095331_llc-kepflatten-kepbls-kepfold.fits period=3.522071123123169 bjd0=2455186.613633621 bindata=False binmethod=mean threshold=1.0 niter=5 nbins=1000 rejqual=False plottype=det overwrite=True verbose=False logfile=kepfold.log
+
+Writing output file data/kplr006922244-2010078095331_llc-kepflatten-kepbls-kepfold.fits...
+Using period and BJD0 from KEPBLS
+--------------------------------------------------------------
+KEPFOLD --  infile=data/kplr006922244-2010078095331_llc-kepflatten-kepbls.fits outfile=data/kplr006922244-2010078095331_llc-kepflatten-kepbls-kepfold.fits period=3.522071123123169 bjd0=2455186.613633621 bindata=False binmethod=mean threshold=1.0 niter=5 nbins=1000 rejqual=False plottype=det overwrite=True verbose=False logfile=kepfold.log
+
+Writing output file data/kplr006922244-2010078095331_llc-kepflatten-kepbls-kepfold.fits...
+Using period and BJD0 from KEPBLS
+--------------------------------------------------------------
+KEPFOLD --  infile=data/kplr006922244-2010078095331_llc-kepflatten-kepbls.fits outfile=data/kplr006922244-2010078095331_llc-kepflatten-kepbls-kepfold.fits period=3.522071123123169 bjd0=2455186.613633621 bindata=False binmethod=mean threshold=1.0 niter=5 nbins=1000 rejqual=False plottype=det overwrite=True verbose=False logfile=kepfold.log
+
+Writing output file data/kplr006922244-2010078095331_llc-kepflatten-kepbls-kepfold.fits...
+Using period and BJD0 from KEPBLS
+--------------------------------------------------------------
+KEPFOLD --  infile=data/kplr006922244-2010078095331_llc-kepflatten-kepbls.fits outfile=data/kplr006922244-2010078095331_llc-kepflatten-kepbls-kepfold.fits period=3.522071123123169 bjd0=2455186.613633621 bindata=False binmethod=mean threshold=1.0 niter=5 nbins=1000 rejqual=False plottype=det overwrite=True verbose=False logfile=kepfold.log
+
+Writing output file data/kplr006922244-2010078095331_llc-kepflatten-kepbls-kepfold.fits...
+--------------------------------------------------------------
+KEPFOLD --  infile=data/kplr006922244-2010078095331_llc.fits outfile=data/kplr006922244-2010078095331_llc-kepfold.fits period=1.0 bjd0=100.0 bindata=False binmethod=mean threshold=1.0 niter=5 nbins=1000 rejqual=False plottype=det overwrite=True verbose=False logfile=kepfold.log
+
+ERROR -- KEPFOLD: DETSAP_FLUX column is not populated.Use kepflatten
