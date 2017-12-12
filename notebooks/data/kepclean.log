@@ -1,0 +1,171 @@
+--------------------------------------------------------------
+KEPCLEAN -- infile=kplr006922244-2010078095331_llc-kepflatten-kepft-kepfold.fits outfile=kplr006922244-2010078095331_llc-kepflatten-kepft-kepfold-kepclean.fits overwrite=False verbose=False logfile=kepclean.log
+
+KEPCLEAN - Cleaning extention 0 (PRIMARY)
+KEPCLEAN - Found flux keys ['SAP_FLUX' 'SAP_FLUX_ERR' 'PDCSAP_FLUX' 'PDCSAP_FLUX_ERR' 'DETSAP_FLUX'
+ 'DETSAP_FLUX_ERR']
+KEPCLEAN - Removed 289 nan entries out of 4397
+KEPCLEAN - Cleaning extention 1 (LIGHTCURVE)
+KEPCLEAN - Found flux keys ['SAP_FLUX' 'SAP_FLUX_ERR' 'PDCSAP_FLUX' 'PDCSAP_FLUX_ERR' 'DETSAP_FLUX'
+ 'DETSAP_FLUX_ERR']
+KEPCLEAN - Removed 0 nan entries out of 4108
+KEPCLEAN - Cleaning extention 2 (APERTURE)
+KEPCLEAN - Found flux keys ['SAP_FLUX' 'SAP_FLUX_ERR' 'PDCSAP_FLUX' 'PDCSAP_FLUX_ERR' 'DETSAP_FLUX'
+ 'DETSAP_FLUX_ERR']
+KEPCLEAN - Removed 0 nan entries out of 4108
+KEPCLEAN - Cleaning extention 3 (POWER SPECTRUM)
+KEPCLEAN - Found flux keys ['SAP_FLUX' 'SAP_FLUX_ERR' 'PDCSAP_FLUX' 'PDCSAP_FLUX_ERR' 'DETSAP_FLUX'
+ 'DETSAP_FLUX_ERR']
+KEPCLEAN - Removed 0 nan entries out of 4108
+--------------------------------------------------------------
+KEPCLEAN -- infile=kplr006922244-2010078095331_llc-kepflatten-kepft-kepfold.fits outfile=kplr006922244-2010078095331_llc-kepflatten-kepft-kepfold-kepclean.fits overwrite=False verbose=False logfile=kepclean.log
+
+KEPCLEAN - Cleaning extention 0 (PRIMARY)
+KEPCLEAN - Found flux keys ['SAP_FLUX' 'SAP_FLUX_ERR' 'PDCSAP_FLUX' 'PDCSAP_FLUX_ERR' 'DETSAP_FLUX'
+ 'DETSAP_FLUX_ERR']
+KEPCLEAN - Removed 289 nan entries out of 4397
+KEPCLEAN - Cleaning extention 1 (LIGHTCURVE)
+KEPCLEAN - Found flux keys ['SAP_FLUX' 'SAP_FLUX_ERR' 'PDCSAP_FLUX' 'PDCSAP_FLUX_ERR' 'DETSAP_FLUX'
+ 'DETSAP_FLUX_ERR']
+KEPCLEAN - Removed 0 nan entries out of 4108
+KEPCLEAN - Cleaning extention 2 (APERTURE)
+KEPCLEAN - Found flux keys ['SAP_FLUX' 'SAP_FLUX_ERR' 'PDCSAP_FLUX' 'PDCSAP_FLUX_ERR' 'DETSAP_FLUX'
+ 'DETSAP_FLUX_ERR']
+KEPCLEAN - Removed 0 nan entries out of 4108
+KEPCLEAN - Cleaning extention 3 (POWER SPECTRUM)
+KEPCLEAN - Found flux keys ['SAP_FLUX' 'SAP_FLUX_ERR' 'PDCSAP_FLUX' 'PDCSAP_FLUX_ERR' 'DETSAP_FLUX'
+ 'DETSAP_FLUX_ERR']
+KEPCLEAN - Removed 0 nan entries out of 4108
+KEPCLEAN - Cleaning extention 4
+KEPCLEAN - Found flux keys ['SAP_FLUX' 'SAP_FLUX_ERR' 'PDCSAP_FLUX' 'PDCSAP_FLUX_ERR' 'DETSAP_FLUX'
+ 'DETSAP_FLUX_ERR']
+KEPCLEAN - Removed 0 nan entries out of 4108
+KEPCLEAN - Writing output file kplr006922244-2010078095331_llc-kepflatten-kepft-kepfold-kepclean.fits...
+Writing output file kplr006922244-2010078095331_llc-kepflatten-kepft-kepfold-kepclean.fits...
+--------------------------------------------------------------
+KEPCLEAN -- infile=kplr006922244-2010078095331_llc-kepflatten-kepft-kepfold.fits outfile=kplr006922244-2010078095331_llc-kepflatten-kepft-kepfold-kepclean.fits overwrite=False verbose=True logfile=kepclean.log
+
+KEPCLEAN started at: Thu Oct 19 16:11:49 2017
+ERROR -- KEPCLIP: kplr006922244-2010078095331_llc-kepflatten-kepft-kepfold-kepclean.fits exists. Use --overwrite
+--------------------------------------------------------------
+KEPCLEAN -- infile=kplr006922244-2010078095331_llc-kepflatten-kepft-kepfold.fits outfile=kplr006922244-2010078095331_llc-kepflatten-kepft-kepfold-kepclean.fits overwrite=True verbose=True logfile=kepclean.log
+
+KEPCLEAN started at: Thu Oct 19 16:11:54 2017
+KEPCLEAN - Cleaning extention 0 (PRIMARY)
+KEPCLEAN - Found flux keys ['SAP_FLUX' 'SAP_FLUX_ERR' 'PDCSAP_FLUX' 'PDCSAP_FLUX_ERR' 'DETSAP_FLUX'
+ 'DETSAP_FLUX_ERR']
+KEPCLEAN - Removed 289 nan entries out of 4397
+KEPCLEAN - Cleaning extention 1 (LIGHTCURVE)
+KEPCLEAN - Found flux keys ['SAP_FLUX' 'SAP_FLUX_ERR' 'PDCSAP_FLUX' 'PDCSAP_FLUX_ERR' 'DETSAP_FLUX'
+ 'DETSAP_FLUX_ERR']
+KEPCLEAN - Removed 0 nan entries out of 4108
+KEPCLEAN - Cleaning extention 2 (APERTURE)
+KEPCLEAN - Found flux keys ['SAP_FLUX' 'SAP_FLUX_ERR' 'PDCSAP_FLUX' 'PDCSAP_FLUX_ERR' 'DETSAP_FLUX'
+ 'DETSAP_FLUX_ERR']
+KEPCLEAN - Removed 0 nan entries out of 4108
+KEPCLEAN - Cleaning extention 3 (POWER SPECTRUM)
+KEPCLEAN - Found flux keys ['SAP_FLUX' 'SAP_FLUX_ERR' 'PDCSAP_FLUX' 'PDCSAP_FLUX_ERR' 'DETSAP_FLUX'
+ 'DETSAP_FLUX_ERR']
+KEPCLEAN - Removed 0 nan entries out of 4108
+KEPCLEAN - Cleaning extention 4
+KEPCLEAN - Found flux keys ['SAP_FLUX' 'SAP_FLUX_ERR' 'PDCSAP_FLUX' 'PDCSAP_FLUX_ERR' 'DETSAP_FLUX'
+ 'DETSAP_FLUX_ERR']
+KEPCLEAN - Removed 0 nan entries out of 4108
+KEPCLEAN - Writing output file kplr006922244-2010078095331_llc-kepflatten-kepft-kepfold-kepclean.fits...
+Writing output file kplr006922244-2010078095331_llc-kepflatten-kepft-kepfold-kepclean.fits...
+KEPCLEAN completed at: Thu Oct 19 16:11:55 2017
+--------------------------------------------------------------
+KEPCLEAN -- infile=kplr006922244-2010078095331_llc-kepflatten-kepft-kepfold.fits outfile=kplr006922244-2010078095331_llc-kepflatten-kepft-kepfold-kepclean.fits overwrite=True verbose=True logfile=kepclean.log
+
+KEPCLEAN started at: Thu Oct 19 16:12:27 2017
+KEPCLEAN - Cleaning extention 0 (PRIMARY)
+KEPCLEAN - Found flux keys []
+--------------------------------------------------------------
+KEPCLEAN -- infile=kplr006922244-2010078095331_llc-kepflatten-kepft-kepfold.fits outfile=kplr006922244-2010078095331_llc-kepflatten-kepft-kepfold-kepclean.fits overwrite=True verbose=True logfile=kepclean.log
+
+KEPCLEAN started at: Thu Oct 19 16:13:06 2017
+KEPCLEAN - Cleaning extention 0 (PRIMARY)
+KEPCLEAN - Cleaning extention 1 (LIGHTCURVE)
+KEPCLEAN - Found flux keys ['SAP_FLUX' 'SAP_FLUX_ERR' 'PDCSAP_FLUX' 'PDCSAP_FLUX_ERR' 'DETSAP_FLUX'
+ 'DETSAP_FLUX_ERR']
+KEPCLEAN - Removed 289 nan entries out of 4397
+KEPCLEAN - Cleaning extention 2 (APERTURE)
+KEPCLEAN - Cleaning extention 3 (POWER SPECTRUM)
+KEPCLEAN - Found flux keys []
+--------------------------------------------------------------
+KEPCLEAN -- infile=kplr006922244-2010078095331_llc-kepflatten-kepft-kepfold.fits outfile=kplr006922244-2010078095331_llc-kepflatten-kepft-kepfold-kepclean.fits overwrite=True verbose=True logfile=kepclean.log
+
+KEPCLEAN started at: Thu Oct 19 16:13:38 2017
+KEPCLEAN - Cleaning extention 0 (PRIMARY)
+KEPCLEAN - Cleaning extention 1 (LIGHTCURVE)
+KEPCLEAN - Found flux keys ['SAP_FLUX' 'SAP_FLUX_ERR' 'PDCSAP_FLUX' 'PDCSAP_FLUX_ERR' 'DETSAP_FLUX'
+ 'DETSAP_FLUX_ERR']
+KEPCLEAN - Removed 289 nan entries out of 4397
+KEPCLEAN - Cleaning extention 2 (APERTURE)
+KEPCLEAN - Cleaning extention 3 (POWER SPECTRUM)
+KEPCLEAN - Found flux keys []
+--------------------------------------------------------------
+KEPCLEAN -- infile=kplr006922244-2010078095331_llc-kepflatten-kepft-kepfold.fits outfile=kplr006922244-2010078095331_llc-kepflatten-kepft-kepfold-kepclean.fits overwrite=True verbose=True logfile=kepclean.log
+
+KEPCLEAN started at: Thu Oct 19 16:14:08 2017
+KEPCLEAN - Cleaning extention 0 (PRIMARY)
+KEPCLEAN - Cleaning extention 1 (LIGHTCURVE)
+KEPCLEAN - Found flux keys ['SAP_FLUX' 'SAP_FLUX_ERR' 'PDCSAP_FLUX' 'PDCSAP_FLUX_ERR' 'DETSAP_FLUX'
+ 'DETSAP_FLUX_ERR']
+KEPCLEAN - Removed 289 nan entries out of 4397
+KEPCLEAN - Cleaning extention 2 (APERTURE)
+KEPCLEAN - Cleaning extention 3 (POWER SPECTRUM)
+KEPCLEAN - Found flux keys []
+--------------------------------------------------------------
+KEPCLEAN -- infile=kplr006922244-2010078095331_llc-kepflatten-kepft-kepfold.fits outfile=kplr006922244-2010078095331_llc-kepflatten-kepft-kepfold-kepclean.fits overwrite=True verbose=True logfile=kepclean.log
+
+KEPCLEAN started at: Thu Oct 19 16:15:03 2017
+KEPCLEAN - Cleaning extention 0 (PRIMARY)
+KEPCLEAN - Cleaning extention 1 (LIGHTCURVE)
+KEPCLEAN - Cleaning extention 2 (APERTURE)
+KEPCLEAN - Cleaning extention 3 (POWER SPECTRUM)
+KEPCLEAN - Cleaning extention 4
+KEPCLEAN - Writing output file kplr006922244-2010078095331_llc-kepflatten-kepft-kepfold-kepclean.fits...
+Writing output file kplr006922244-2010078095331_llc-kepflatten-kepft-kepfold-kepclean.fits...
+KEPCLEAN completed at: Thu Oct 19 16:15:03 2017
+--------------------------------------------------------------
+KEPCLEAN -- infile=kplr006922244-2010078095331_llc-kepflatten-kepft-kepfold.fits outfile=kplr006922244-2010078095331_llc-kepflatten-kepft-kepfold-kepclean.fits overwrite=True verbose=True logfile=kepclean.log
+
+KEPCLEAN started at: Thu Oct 19 16:15:21 2017
+KEPCLEAN - Cleaning extention 0 (PRIMARY)
+KEPCLEAN - Cleaning extention 1 (LIGHTCURVE)
+KEPCLEAN - Cleaning extention 2 (APERTURE)
+KEPCLEAN - Cleaning extention 3 (POWER SPECTRUM)
+KEPCLEAN - Cleaning extention 4
+KEPCLEAN - Writing output file kplr006922244-2010078095331_llc-kepflatten-kepft-kepfold-kepclean.fits...
+Writing output file kplr006922244-2010078095331_llc-kepflatten-kepft-kepfold-kepclean.fits...
+KEPCLEAN completed at: Thu Oct 19 16:15:21 2017
+--------------------------------------------------------------
+KEPCLEAN -- infile=kplr006922244-2010078095331_llc-kepflatten-kepft-kepfold.fits outfile=kplr006922244-2010078095331_llc-kepflatten-kepft-kepfold-kepclean.fits overwrite=True verbose=True logfile=kepclean.log
+
+KEPCLEAN started at: Thu Oct 19 16:15:30 2017
+KEPCLEAN - Cleaning extention 0 (PRIMARY)
+KEPCLEAN - Cleaning extention 1 (LIGHTCURVE)
+KEPCLEAN - Cleaning extention 2 (APERTURE)
+KEPCLEAN - Cleaning extention 3 (POWER SPECTRUM)
+KEPCLEAN - Cleaning extention 4
+KEPCLEAN - Writing output file kplr006922244-2010078095331_llc-kepflatten-kepft-kepfold-kepclean.fits...
+Writing output file kplr006922244-2010078095331_llc-kepflatten-kepft-kepfold-kepclean.fits...
+KEPCLEAN completed at: Thu Oct 19 16:15:30 2017
+--------------------------------------------------------------
+KEPCLEAN -- infile=kplr006922244-2010078095331_llc-kepflatten-kepft-kepfold.fits outfile=kplr006922244-2010078095331_llc-kepflatten-kepft-kepfold-kepclean.fits overwrite=True verbose=True logfile=kepclean.log
+
+KEPCLEAN started at: Thu Oct 19 16:15:42 2017
+KEPCLEAN - Cleaning extention 0 (PRIMARY)
+KEPCLEAN - Cleaning extention 1 (LIGHTCURVE)
+KEPCLEAN - Found flux keys ['SAP_FLUX' 'SAP_FLUX_ERR' 'PDCSAP_FLUX' 'PDCSAP_FLUX_ERR' 'DETSAP_FLUX'
+ 'DETSAP_FLUX_ERR']
+KEPCLEAN - Removed 289 nan entries out of 4397
+KEPCLEAN - Cleaning extention 2 (APERTURE)
+KEPCLEAN - Cleaning extention 3 (POWER SPECTRUM)
+KEPCLEAN - Cleaning extention 4
+KEPCLEAN - Found flux keys ['FLUX']
+KEPCLEAN - Removed 0 nan entries out of 4108
+KEPCLEAN - Writing output file kplr006922244-2010078095331_llc-kepflatten-kepft-kepfold-kepclean.fits...
+Writing output file kplr006922244-2010078095331_llc-kepflatten-kepft-kepfold-kepclean.fits...
+KEPCLEAN completed at: Thu Oct 19 16:15:43 2017

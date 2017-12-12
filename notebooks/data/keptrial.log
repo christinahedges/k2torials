@@ -1,0 +1,3 @@
+--------------------------------------------------------------
+KEPTRIAL --  infile=data/kplr006922244-2010078095331_llc.fits outfile=data/kplr006922244-2010078095331_llc-keptrial.fits datacol=SAP_FLUX errcol=SAP_FLUX_ERR fmin=0.25 fmax=0.5 nfreq=100 method=ft ntrials=10 plot=True overwrite=True verbose=False logfile=keptrial.log
+
