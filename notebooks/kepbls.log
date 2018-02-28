@@ -1,3 +1,0 @@
---------------------------------------------------------------
-KEPBLS --  infile=data/kplr006922244-2010078095331_llc.fits outfile=data/kplr006922244-2010078095331_llc-kepbls.fits datacol=PDCSAP_FLUX errcol=PDCSAP_FLUX_ERR minper=1 maxper=10 mindur=0.5 maxdur=12 nsearch=1000 nbins=1000 plot=False overwrite=False verbose=False logfile=kepbls.log
-
